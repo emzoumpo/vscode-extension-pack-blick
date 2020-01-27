@@ -1,5 +1,8 @@
 # Blick Development VSCode Extension
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/emzoumpo.vscode-blick?label=vscode%20marketplace&style=flat-square)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/emzoumpo.vscode-blick?label=downloads&style=flat-square)
+
 Bare essentials for efficient and smooth Blick development.
 
 ## Extensions included
