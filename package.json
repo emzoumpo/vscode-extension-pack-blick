@@ -1,0 +1,27 @@
+{
+  "name": "vscode-blick",
+  "displayName": "Blick Development Extension Pack",
+  "description": "Extension Pack for Blick development.",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emzoumpo/vscode-extension-pack-blick"
+  },
+  "publisher": "emzoumpo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "pflannery.vscode-versionlens",
+    "stylelint.vscode-stylelint",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
