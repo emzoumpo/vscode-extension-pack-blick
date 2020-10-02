@@ -21,3 +21,4 @@ All the extensions you need for efficient and smooth Blick development.
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint): Modern CSS/SCSS/Less linter
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components): Syntax highlighting for styled-components
