@@ -4,7 +4,7 @@
   "description": "Extension Pack for Blick development.",
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#E20000",
+    "color": "#FFFF13",
     "theme": "dark"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "https://github.com/emzoumpo/vscode-extension-pack-blick"
   },
   "publisher": "emzoumpo",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "engines": {
     "vscode": "^1.41.0"
   },
