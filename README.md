@@ -9,6 +9,7 @@ All the extensions you need for efficient and smooth Blick development.
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Improve your code commenting by annotating with alert, informational, TODOs, and more!
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Easily switch between projects
+- [ZipFS - a zip file system](https://marketplace.visualstudio.com/items?itemName=arcanis.vscode-zipfs): Allows to easily inspect and modify files stored within zip archives.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint JavaScript into VS Code
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Visualize code authorship at a glance
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter using prettier
