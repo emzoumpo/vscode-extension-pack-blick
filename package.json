@@ -1,7 +1,7 @@
 {
   "name": "vscode-blick",
-  "displayName": "Blick Development Extension Pack",
-  "description": "Extension Pack for Blick development.",
+  "displayName": "Blick.ch developer extension pack",
+  "description": "A collection of the most essential extensions for Blick.ch developers.",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#FFFF13",
@@ -12,7 +12,7 @@
     "url": "https://github.com/emzoumpo/vscode-extension-pack-blick"
   },
   "publisher": "emzoumpo",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "engines": {
     "vscode": "^1.41.0"
   },
