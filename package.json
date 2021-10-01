@@ -4,7 +4,7 @@
   "description": "A collection of the most essential extensions for Blick.ch developers.",
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#FFFF13",
+    "color": "#ffff13",
     "theme": "light"
   },
   "repository": {
