@@ -15,12 +15,11 @@ A collection of the most essential extensions for Blick.ch developers.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter using prettier
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Pull Request and Issue Provider for GitHub
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete): Provides path completion for visual studio code.
-- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components): Syntax highlighting for styled-components
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components): Syntax highlighting for styled-components
 - [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio): Adds audio calling capabilities to Visual Studio Live Share
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Real-time collaborative development from the comfort of your favorite tools.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): Shows the latest version for each package using code lens
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint): Modern CSS/SCSS/Less linter
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case): Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
