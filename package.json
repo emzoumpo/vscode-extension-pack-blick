@@ -28,11 +28,11 @@
     "esbenp.prettier-vscode",
     "github.vscode-pull-request-github",
     "ionutvmi.path-autocomplete",
-    "styled-components.vscode-styled-components",
     "ms-vsliveshare.vsliveshare-audio",
     "ms-vsliveshare.vsliveshare",
     "pflannery.vscode-versionlens",
     "sleistner.vscode-fileutils",
+    "styled-components.vscode-styled-components",
     "VisualStudioExptTeam.vscodeintellicode",
     "wmaurer.change-case",
     "yzhang.markdown-all-in-one"
