@@ -12,7 +12,7 @@
     "url": "https://github.com/emzoumpo/vscode-extension-pack-blick"
   },
   "publisher": "emzoumpo",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -28,6 +28,7 @@
     "esbenp.prettier-vscode",
     "github.vscode-pull-request-github",
     "ionutvmi.path-autocomplete",
+    "mikestead.dotenv",
     "ms-vsliveshare.vsliveshare-audio",
     "ms-vsliveshare.vsliveshare",
     "pflannery.vscode-versionlens",
