@@ -10,13 +10,14 @@ A collection of the most essential extensions for Blick.ch developers.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Improve your code commenting by annotating with alert, informational, TODOs, and more!
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Easily switch between projects
 - [ZipFS - a zip file system](https://marketplace.visualstudio.com/items?itemName=arcanis.vscode-zipfs): Allows to easily inspect and modify files stored within zip archives.
+- [Unique Lines](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines): Keep unique lines of text and remove duplicates from current selection. Also includes a command to shuffle currently selected lines.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint JavaScript into VS Code
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Visualize code authorship at a glance
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter using prettier
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Pull Request and Issue Provider for GitHub
+- [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql): GraphQL LSP extension that adds autocompletion, validation, go to definition, hover, outline and more.
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete): Provides path completion for visual studio code.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv): Support for dotenv file syntax
-- [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio): Adds audio calling capabilities to Visual Studio Live Share
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Real-time collaborative development from the comfort of your favorite tools.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): Shows the latest version for each package using code lens
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
