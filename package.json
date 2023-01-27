@@ -2,6 +2,7 @@
   "name": "vscode-blick",
   "displayName": "Blick.ch developer extension pack",
   "description": "A collection of the most essential extensions for Blick.ch developers.",
+  "license": "MIT",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#ffff13",
@@ -14,7 +15,7 @@
   "publisher": "emzoumpo",
   "version": "0.6.0",
   "engines": {
-    "vscode": "^1.70"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Extension Packs"
