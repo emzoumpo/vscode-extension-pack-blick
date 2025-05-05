@@ -13,7 +13,7 @@
     "url": "https://github.com/emzoumpo/vscode-extension-pack-blick"
   },
   "publisher": "emzoumpo",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -36,6 +36,7 @@
     "pflannery.vscode-versionlens",
     "sleistner.vscode-fileutils",
     "styled-components.vscode-styled-components",
+    "tamasfe.even-better-toml",
     "VisualStudioExptTeam.vscodeintellicode",
     "wmaurer.change-case",
     "yzhang.markdown-all-in-one"

@@ -21,6 +21,7 @@ A collection of the most essential extensions for Blick.ch developers.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Real-time collaborative development from the comfort of your favorite tools.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): Shows the latest version for each package using code lens
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+- [Even better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml): A formatter for TOML files
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components): Syntax highlighting for styled-components
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case): Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
